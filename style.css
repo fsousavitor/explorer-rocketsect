@@ -184,7 +184,7 @@ footer p {
         max-width: 110rem;
         gap: normal;
         align-items: unset;
-        height: 75vh;
+        min-height: 80vh;
     }
     
     nav{
@@ -200,7 +200,8 @@ footer p {
     main{
         flex-direction: row;      
         gap: normal;
-        margin-bottom: 5rem;
+        margin-top: 10rem;
+        margin-bottom: 16rem;
                 
     }
     
