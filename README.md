@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Challenges 01</h1>
+<h1 align="center"> Explorer Challenges 03 - "Rocket.sect"</h1>
 
 <p align="center">
-Desafio 04 do Stage 02 do Programa Explorer
+Desafio do Stage 02 do Programa Explorer da Rocketseat.
 </p>
 
 <p align="center">
@@ -27,10 +27,10 @@ Desafio 04 do Stage 02 do Programa Explorer
 
     - HTML
     - CSS
-
+    
 ## 💻 Projeto
 
-- O Projeto "Rocket.sect" consiste em uma land page desenvolvida ao final do Stage 2 - Módulo de introdução ao HTML e CSS.
+- O Projeto "Rocket.sect" consiste em uma land page desenvolvida ao final do Stage 02, que é o módulo de introdução ao HTML e CSS do Programa Explorer.
 
 - O Objetivo do exercicio é criar um código do zero a partir de um layout do figma.
 
@@ -47,4 +47,4 @@ Desafio 04 do Stage 02 do Programa Explorer
 
 ---
 
-Feito com :heart: por Vitor Sousa 🚀🚀
+🚀 Feito com ❤️ por Vitor Sousa 🚀
