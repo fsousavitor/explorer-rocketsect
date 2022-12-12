@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Challenges 03 - "Rocket.sect"</h1>
+<h1 align="center"> Explorer Challenges - "Rocket.sect"</h1>
 
 <p align="center">
 Desafio do Stage 02 do Programa Explorer da Rocketseat.
